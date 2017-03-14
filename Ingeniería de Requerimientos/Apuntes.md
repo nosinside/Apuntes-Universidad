@@ -1,20 +1,38 @@
-Que es la ingenier韆 de requerimiento?
+// Que es la ingenier铆a de requerimiento?
+
 Proceso de descubrir, analizar, documentar, y verificar los servicios proporcionados por el sistema y sus restricciones operativas.
 
-縌ue es la Gesti髇 de Requerimiento?
-La gesti髇 de los diferentes requerimientos generados.
+// Que es la Gesti贸n de Requerimiento?
+
+La gesti锟絥 de los diferentes requerimientos generados.
 Conjunto de actividades que ayudan al equipo de trabajo a identificar, controlar y seguir los requisitos y sus cambios en cualquier momento.
 
-縌ue es la ingenieria de requisitos?
+// Que es la ingenieria de requisitos?
+
 La ingenieria de requisitos es el proceso de descubrir, analizar, documentar, y verificar los servicios proporcionados por el sistema y sus restricciones operativas. Los servicios corresponden a las necesidades de los clientes que son satisfechas por la aplicacion. (sommervile, 2005).
 
-La funcion principal de el ingeniero en inform醫ica es:
+Tambien puede ser vista como una actividad de ingenier铆a y gesti贸n, desde la primera por que concierne la identificacion de metedologias apropiadads para desarollar soluciones de software bajo unos costos que sean apropiados para su implementaci贸n; desde la segunda por que mediante actividades de gestion como la monitorizacion de los requerimientos del producto y el alcance del proyecto, los costos y la agenda a traves del proceso de desarrollo de software, se asegura que todas las aplicaciones del negocio sean entregadas como se definen en los documentos de especificacion de requerimientos (Aurum y Wohlin, 2005).
+
+Alcance de proyecto: Todo lo que involucra el proyecto documentado, y lo que NO, si modificamos el alcance del requerimiento el valor se aumenta, y el plazo se extiende.
+
+Si tenemos un mal requerimiento, tendremos un dise帽o de aplicaci贸n MALO, si definimos un buen requerimiento, tendremos un producto de calidad.
+
+La funcion principal de el ingeniero en inform谩tica es:
 Automatizar procesos de negocio.
 
-Introducci髇:
+Todo parte del requerimiento, y luego de eso:
+
+Ingenieria basica: dise帽o l贸gico, que software se utilizar谩 para la aplicaci贸n, lenguaje, sql, etc..
+
+Ingenieria detalle: dise帽o fisico, la especificacion de la aplicaci贸n.
+
+// Introducci贸n:
 Los requisitos son lo menos atendido, pero son cruciales, los estudios dicen de que mas del 60% de las fallas de proyectos en los estados unidos, se deben a pobre definicion de requisitos, encontrandose 5 razones comunes de fracasos de proyectos.
 
-La gesti髇 de requisitos es una parte importante de la organizaci髇, que realiza sus propios proyectos de software, ya que es vital para reducir los riesgos inherentes a ellos.
+La gesti贸nn de requisitos es una parte importante de la organizaci贸n, que realiza sus propios proyectos de software, ya que es vital para reducir los riesgos inherentes a ellos.
 
-Termino com鷑: Stakeholder, todas las personas que interactuan en todos los procesos de negocio de una empresa.
+Termino com煤n: Stakeholder, todas las personas que interactuan en todos los procesos de negocio de una empresa.
 
+// Requerimiento y clasificaciones
+
+Un requerimiento se transforma en una funcionalidad del software o en un servicio.
