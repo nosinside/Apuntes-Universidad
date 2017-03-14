@@ -36,3 +36,38 @@ Termino común: Stakeholder, todas las personas que interactuan en todos los pro
 // Requerimiento y clasificaciones
 
 Un requerimiento se transforma en una funcionalidad del software o en un servicio.
+
+Pueden ser clasificados en diferentes formas:
+tipos de requerimiento: funcionales y no funcionales, a nivel de negocio, dominio, producto, diseño.
+Primarios, derivados y basados en roles.
+VER TABLA 1 de PPT MATERIA.
+
+Los procesos se pueden ver en diferentes modelos:
+
+Modelo de Pohl: metodo iterativo en el que se definen las actividades como elicitacion, negociacion, especificacion y documentacion, validacion y verificación (Duran, 2000).
+
+Ver figura 1 de modelo procesos de Pohl en la ingeniería de requisitos.
+
+Cada una de estas actividades tiene procesos bien definidos:
+
+elicitacion: buscar hacer explicito el conocimiento oculto sobre las necesidaddes de los clientes, y usuarios y el sistema a desarrollar de manera de que todas las personas de la organizacion sean capaces de entenderlo.
+
+negociacion: busca alcanzar acuerdos y entendimientos entre los participantes sobre los requisitos propuestos en la fase anterior.
+
+especificacion y documentacion: busca documentar los requisitos documentados y elicitados utilizando varias notaciones con el fin de ser lo mas claro posible.
+
+
+
+
+Modelo espiral:
+
+Es una actividad de 3 etapas donde se organizan como un proceso iterativo.
+al principio del proceso se declara la mayor parte del esfuerzo para la comprension del negocio de alto nivel y los requerimientos funcionales y del usuario. al final del proceso, en el anillo exterior del espiral, se dedicará un mayor esfuerzo a la ingeniería del requerimiento del sistema y modelado de este.
+
+esta basado en los modelos de boehm y potes para gestion de requisitos (duran toro, 2000), y es definidio por ian sommervile.
+
+se muestra en la figura2 el proceso en espiral.
+
+// Actividades de ingenieria de requerimientos
+
+La recopilacion de requerimientos es un paso importante, un error o mala interprtacion de requsitos propagara el problema a traves del ciclo de vida del desarrollo.
