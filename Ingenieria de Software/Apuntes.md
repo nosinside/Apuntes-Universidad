@@ -59,3 +59,28 @@ Factores de Calidad según ISO 9126
 4) Documentar.
 5) Validar y controlar formalmente la calidad del trabajo realizado.
 6) Cumplir con los objetivos de la organización en cuanto a productividad de sus sistemas de cómputo.
+
+debe ser un proyecto que se pueda idear en 1.5 meses.
+
+clase 3: 
+
+ver ppt pagina Estandard y modelos.
+
+Averiguar:
+
+IEEE Computer Society.
+
+Foco: Computer and information processing science and technology
+
+The Computer Society sponsors workshops and conferences, publishes a variety of peer-reviewed literature, operates technical committees, and develops IEEE computing standards.[4] It supports more than 200 chapters worldwide[5] and participates in educational activities at all levels of the profession, including distance learning, accreditation of higher education programs in computer science, and professional certification in software engineering.[3]
+
+El aporte de la sociedad de computo IEEE.
+
+se origina en 1946.
+
+Educación: la comnunidad participa en desarrollos en en la curricula de las universidades,  con actividades y programas de certificacion de desarrollo de software.
+
+publicaciones: es lider publicando material tecnico referente al computo.
+
+conferencias técnicas y actividades: hacen mas de 170 conferencias al año.
+
