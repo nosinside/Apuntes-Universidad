@@ -1,0 +1,35 @@
+Se solicitar desarrollar o plantear un caso en donde se pueda diferenciar los principios de este paradigma (POO), respecto al paradigma anterior.
+
+Aprendizaje
+
+Criterios de evaluación          
+
+Contenidos
+
+1.3.-
+
+Analiza ventajas y desventajas de la programación orientada a objetos (OO) en el desarrollo de software de acuerdo a un caso específico.
+
+1.3.1.-
+
+Describe los principios básicos de la OO como paradigma para el desarrollo de software en base a un problema dado.
+
+1.3.2.-
+
+Expone sobre la diferenciación respecto a la orientación a objetos en la ingeniería de software.
+
+1.3.3.- Compara los beneficios y problemas de la OO para la ingeniería de software.
+
+-   Paradigma orientación a objeto (OO).
+
+Tiempo: 60 min.
+
+Se evaluara la estructura presentada y modelo kanban en el desarrollo de esta actividad.
+
+Puede considerar lo que ud estime conveniente para desarrollar lo solicitado sin dejar de considerar el aspecto comprensivo, en donde lo mínimo se sustente en que este estructurado.
+
+Problema a realizar:
+
+Diferencias entre un caso en POO vs uno desarrollado estructuradamente.
+
+
